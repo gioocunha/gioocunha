@@ -1,6 +1,6 @@
 # Hi there 👋
 ###  My name is Giovanna Cunha, I'm an undergraduate of Engineering Computation at Federal University Pará.
-- 🔭 I’m currently working on a developer back-end at Policy Miltary of State of Pará
+- 🔭 I’m currently working on a developer back-end at Policy Selection Processes Center (CEPS) - UFPA
 - 🌱 I’m at the moment enthusiast about cybersecurity.
 
 <div>
