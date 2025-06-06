@@ -1,19 +1,22 @@
-# Hi there 👋
-###  My name is Giovanna Cunha, I'm an undergraduate of Engineering Computation at Federal University Pará.
-- 🔭 I’m currently working on a developer back-end at Policy Selection Processes Center (CEPS) - UFPA
-- 🌱 I’m at the moment enthusiast about cybersecurity.
+<p align="center" style="display: flex; justify-content: space-evenly; align-items: center;">
+<a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=2AB3F7&center=true&multiline=true&width=435&lines=+C%3A%5C%3E+whoami;Back-end+developer%5CGiovanna+cunha" alt="Typing SVG" /></a>
+</a>
+</p>
 
-<div>
-<a href="https://github.com/gioocunha">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioocunha&layout=compact&langs_count=7&theme=algolia"/>
-</div>
+---
+<p align="justify">
+I am a Computer Engineering student at the Federal University of Pará (UFPA), with experience in research projects focused on computer security techniques. Currently, I am a fellow at the Center for Selective Processes (CEPS), located at UFPA, where I am responsible for backend development of systems, database design, and API development. I have a strong interest in software development and cybersecurity.
+</p>
 
-# Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="40" height="40"/>
-            
-# I'm learning !
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg"  width="60" height="60"/>
+---
 
+![gioocunha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gioocunha&theme=tokyonight&hide_border=true)
+![gioocunha's Stats](https://github-readme-stats.vercel.app/api?username=gioocunha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-          
+## My skills
+<p align="center">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,django,py,docker,mysql" />
+  </a>
+</p>
