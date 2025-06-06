@@ -11,8 +11,18 @@ I am a Computer Engineering student at the Federal University of Pará (UFPA), w
 
 ---
 
-![gioocunha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gioocunha&theme=tokyonight&hide_border=true)
-![gioocunha's Stats](https://github-readme-stats.vercel.app/api?username=gioocunha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gioocunha&theme=tokyonight&hide_border=true" alt="gioocunha's Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=gioocunha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="gioocunha's Stats" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## My skills
 <p align="center">
